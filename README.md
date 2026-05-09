@@ -86,12 +86,27 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
-  style="padding-right: 10px"
-  src="https://github.com/user-attachments/assets/2a1272f4-a736-4504-929a-f88bf6a5b61b" />
+  width="60px"
+  style="padding: 20px"
+  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
 
 
+ <img  
+   align="left"
+   width="50"
+   src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+/>
+<img
+  align="left"
+  width="50"
+  src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+/>
 
+<img
+  align="left"
+  width="50"
+  src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+/>
 <br>
 <br>
 
