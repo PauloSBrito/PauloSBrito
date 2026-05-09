@@ -1,30 +1,97 @@
-# Hello, I'm Paulo Brito 👋
+# 👨‍💻️ Paulo Brito
 
-🎓 Information Systems student at UFPA  
-💻 IT Support Intern  
-🌐 Interested in Networking, Linux and IT Infrastructure  
+**`Information systems student at UFPA`**
 
 ---
 
 ## About Me
 
-I am currently studying computer networks and infrastructure while working as an IT support intern.  
-Here I share networking labs and projects that I build to practice concepts like routing, VLANs and network services.
+I am information systems student at UFPA and currently studying computer networks, automation, operating systems and infrastructure in general to become a network engineer. Here I share networking labs, technologies and projects that I build to practice concepts like routing, VLANs, network services and my practice labs to get CCNA exam and other certifications.
 
 ---
 
-## Technologies and Tools
+## 💻️ Technologies and Tools
 
-- Networking fundamentals (TCP/IP, Subnetting)
-- VLAN and Switching
-- Routing
-- Linux
-- Cisco Packet Tracer
-- GNS3
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"         
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"         
+/>
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+/>
+
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" 
+/>
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
+/>
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"
+/>
+
+<img align ="left" width = "50" style ="padding-right: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"/>
+
+
+
+<br>
+<br>
+
 
 ---
 
-## Current Learning
+
+## 📚️ Current Learning
 
 - Computer Networks
 - Linux Fundamentals
@@ -33,7 +100,7 @@ Here I share networking labs and projects that I build to practice concepts like
 
 ---
 
-## Networking Labs
+## 🌐️ Networking Labs
 
 Some labs I am working on:
 
@@ -46,7 +113,7 @@ Some labs I am working on:
 
 ---
 
-## Goals
+## 🎯️ Goals
 
 - Develop strong networking fundamentals
 - Build practical network labs
