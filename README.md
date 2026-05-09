@@ -16,7 +16,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -24,7 +24,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
 />
@@ -32,7 +32,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"         
 />
@@ -40,7 +40,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"         
 />
@@ -48,7 +48,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
@@ -57,7 +57,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" 
 />
@@ -66,7 +66,7 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
 />
@@ -75,36 +75,36 @@ I am information systems student at UFPA and currently studying computer network
   align="left"
   alt="HTML"
   title="HTML"
-  width="50px"
+  width="30px"
   style="padding-right: 10px"
   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"
 />
 
-<img align ="left" width = "50" style ="padding-right: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"/>
+<img align ="left" width = "30" style ="padding-right: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"/>
 
 <img 
   align="left"
   alt="HTML"
   title="HTML"
-  width="60px"
+  width="30px"
   style="padding: 20px"
   src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
 
 
  <img  
    align="left"
-   width="50"
+   width="30"
    src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 />
 <img
   align="left"
-  width="50"
+  width="30"
   src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 />
 
 <img
   align="left"
-  width="50"
+  width="30"
   src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 />
 <br>
