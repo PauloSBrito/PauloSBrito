@@ -82,6 +82,14 @@ I am information systems student at UFPA and currently studying computer network
 
 <img align ="left" width = "50" style ="padding-right: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"/>
 
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="50px"
+  style="padding-right: 10px"
+  src="https://github.com/user-attachments/assets/2a1272f4-a736-4504-929a-f88bf6a5b61b" />
+
 
 
 <br>
