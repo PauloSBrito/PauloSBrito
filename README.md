@@ -1,35 +1,33 @@
-# Olá, eu sou o Paulo Brito! 👋
+# Hi there, I'm Paulo Brito! 
 
-Graduando em **Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e desenvolvedor focado em **Engenharia de Software** e **Desenvolvimento Full-Stack**.
+I am a **Systems Information student at the Federal University of Pará (UFPA)**, focusing on **Software Engineering** and **Back-end Development**.
 
-Dedico meus estudos e projetos práticos à construção de aplicações robustas, escaláveis e bem estruturadas, utilizando o ecossistema Java. Desenvolvo minhas soluções em ambiente **Ubuntu**, prezando por automação, boas práticas de arquitetura e código limpo.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<!-- Back-end & Engenharia -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50" alt="Ubuntu" />
-
-<!-- Infraestrutura & Banco de Dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+My academic studies and personal projects are dedicated to building robust, scalable, and well-structured applications within the Java ecosystem. I develop my solutions in an **Ubuntu** environment, always aiming for automation, architecture best practices, and clean code.
 
 ---
 
-## 📂 Organização do Portfólio
+## 🛠️ Tech Stack & Tools
 
-*   **[College](https://github.com/PauloSBrito/College):** Repositório centralizado onde organizo meus laboratórios de redes, estruturas de dados e projetos acadêmicos desenvolvidos ao longo da graduação.
-*   *Em breve:* Aplicações autorais utilizando Spring Boot, Spring Security, arquitetura em camadas e testes automatizados.
+<!-- Tech Icons Row -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50" alt="Ubuntu" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📂 Portfolio Structure
+
+*   **[College](https://github.com/PauloSBrito/College):** A centralized monorepo where I organize my networking labs, data structures, and academic projects developed throughout my degree.
+*   *Coming soon:* Production-ready REST APIs using Spring Boot, Spring Security, layered architecture, and automated testing (JUnit/Mockito).
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSBrito&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Estatísticas do GitHub de Paulo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSBrito&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Paulo's GitHub Stats" />
 </p>
 
 ---
 
-## 📬 Vamos nos conectar?
+## 📬 Let's Connect
 - **LinkedIn:** www.linkedin.com/in/p-h-brito
+- **Email:** phbritosantos01@gmail.com
