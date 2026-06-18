@@ -8,7 +8,7 @@ Dedico meus estudos e projetos práticos à construção de aplicações robusta
 
 ## 🛠️ Tecnologias & Ferramentas
 <img
-src = "<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>"
+src = "https://www.flaticon.com/free-icons/java"
 />
 
 ---
