@@ -1,154 +1,42 @@
-# 👨‍💻️ Paulo Brito
+# Olá, eu sou o Paulo Brito! 👋
 
-**`Information systems student at UFPA`**
+Graduando em **Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e desenvolvedor focado em **Engenharia de Software** e **Desenvolvimento Back-end**.
 
----
-
-## About Me
-
-I am information systems student at UFPA and currently studying computer networks, automation, operating systems and infrastructure in general to become a network engineer. Here I share networking labs, technologies and projects that I build to practice concepts like routing, VLANs, network services and my practice labs to get CCNA exam and other certifications.
+Dedico meus estudos e projetos práticos à construção de aplicações robustas, escaláveis e bem estruturadas, utilizando o ecossistema Java. Desenvolvo minhas soluções em ambiente **Ubuntu**, prezando por automação, boas práticas de arquitetura e código limpo.
 
 ---
 
-## 💻️ Technologies and Tools
+## 🛠️ Tecnologias & Ferramentas
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+### Back-end & Engenharia
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://github.com/user-attachments/assets/4bb3a94c-22cb-40bc-9eaf-7b70ea105703" />
-"
-/>
+### Bancos de Dados
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"         
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"         
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
-
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" 
-/>
-
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
-/>
-
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"
-/>
-
-<img align ="left" width = "30" style ="padding-right: 10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"/>
-
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding: 20px"
-  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
-
-
- <img  
-   align="left"
-   width="30"
-   src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
-/>
-<img
-  align="left"
-  width="30"
-  src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
-/>
-
-<img
-  align="left"
-  width="30"
-  src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
-/>
-<br>
-<br>
-
+### Infraestrutura & DevOps
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&omegaColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+## 📂 Organização do Portfólio
 
-## 📚️ Current Learning
-
-- Computer Networks
-- Linux Fundamentals
-- Network Troubleshooting
-- Preparing for the CCNA certification
+*   **[College](https://github.com/PauloSBrito/College):** Repositório centralizado onde organizo meus laboratórios de redes, estruturas de dados e projetos acadêmicos desenvolvidos ao longo da graduação.
+*   *Em breve:* Aplicações autorais utilizando Spring Boot, Spring Security, arquitetura em camadas e testes automatizados.
 
 ---
 
-## 🌐️ Networking Labs
+## 📈 Estatísticas do GitHub
 
-Some labs I am working on:
-
-- Basic Network Topology
-- DHCP Configuration
-- VLAN Segmentation
-- Inter-VLAN Routing
-- NAT Configuration
-- Multi-Network Routing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloSBrito&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Estatísticas do GitHub de Paulo" />
+</p>
 
 ---
 
-## 🎯️ Goals
-
-- Develop strong networking fundamentals
-- Build practical network labs
-- Grow towards a Network Engineer career
+## 📬 Vamos nos conectar?
+- **LinkedIn:** www.linkedin.com/in/p-h-brito
