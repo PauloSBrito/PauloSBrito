@@ -9,8 +9,8 @@ Dedico meus estudos e projetos práticos à construção de aplicações robusta
 ## 🛠️ Tecnologias & Ferramentas
 
 <img 
-width="30"          
-height = 30px
+width="70"          
+height = "70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
           
