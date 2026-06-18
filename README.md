@@ -9,10 +9,17 @@ Dedico meus estudos e projetos práticos à construção de aplicações robusta
 ## 🛠️ Tecnologias & Ferramentas
 
 <img 
-width="70"          
-height = "70"
+width="60"          
+height = "60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
+
+<img 
+width="60"          
+height = "60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+          
           
 
 ---
