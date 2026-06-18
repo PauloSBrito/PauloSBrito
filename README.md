@@ -1,15 +1,15 @@
 # Olá, eu sou o Paulo Brito! 👋
 
-Graduando em **Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e desenvolvedor focado em **Engenharia de Software** e **Desenvolvimento Back-end**.
+Graduando em **Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e desenvolvedor focado em **Engenharia de Software** e **Desenvolvimento Full-Stack**.
 
 Dedico meus estudos e projetos práticos à construção de aplicações robustas, escaláveis e bem estruturadas, utilizando o ecossistema Java. Desenvolvo minhas soluções em ambiente **Ubuntu**, prezando por automação, boas práticas de arquitetura e código limpo.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-<img
-src = "https://www.flaticon.com/free-icons/java"
-/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 
 ---
 
