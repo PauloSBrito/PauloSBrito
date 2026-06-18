@@ -20,6 +20,17 @@ I am information systems student at UFPA and currently studying computer network
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://github.com/user-attachments/assets/4bb3a94c-22cb-40bc-9eaf-7b70ea105703" />
+"
+/>
+
 <img
   align="left"
   alt="HTML"
