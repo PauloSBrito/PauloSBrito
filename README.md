@@ -29,7 +29,15 @@ My academic studies and personal projects are dedicated to building robust, scal
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloSBrito&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="Paulo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloSBrito&theme=visual_studio_dark" alt="Paulo's GitHub Streak Stats" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSBrito&layout=compact&theme=visual_studio_dark" alt="Paulo's Most Used Languages" />
 </p>
 
 ---
